@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
@@ -18,6 +18,13 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/French/2375396e-efe6-427a-b23a-7f60d130611a_fr_Male.mp4"
         },
         {
+            "id": "a1bc2903-d826-4778-b21f-13f8c327f713",
+            "collectionId": "French",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/French/a1bc2903-d826-4778-b21f-13f8c327f713_fr_Female.mp4"
+        },
+        {
             "id": "7a2edf2e-4739-498d-8b98-23a86fbcd598",
             "collectionId": "French",
             "type": "Myth",
@@ -30,6 +37,13 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/French/732dfed3-61cd-4744-9139-39e51dc2d8b6_fr_Male.mp4"
+        },
+        {
+            "id": "244f46dc-8349-4cfc-8080-0f5a6aedf635",
+            "collectionId": "French",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/French/244f46dc-8349-4cfc-8080-0f5a6aedf635_fr_Female.mp4"
         }
     ]
 }
